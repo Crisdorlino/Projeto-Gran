@@ -1,4 +1,8 @@
-FACULDADE GRAN (https://faculdade.grancursosonline.com.br/)
+FACULDADE GRAN
+
+Projeto Disciplina Projeto Integrador
+
+Frontend desenvolvido em React.js consumindo uma API Node.js + Express + SQLite.
 
 <<<<<<< HEAD
 Projeto Disciplina Projeto Integrador
