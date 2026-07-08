@@ -4,6 +4,9 @@ Projeto Disciplina Projeto Integrador
 
 Frontend desenvolvido em React.js consumindo uma API Node.js + Express + SQLite.
 
+OBS: O Back End se encontra no seguinte repositório!  
+https://github.com/Crisdorlino/Projeto-Back_End
+
 <<<<<<< HEAD
 Projeto Disciplina Projeto Integrador
 =======
